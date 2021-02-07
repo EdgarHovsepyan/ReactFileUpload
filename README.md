@@ -1,5 +1,12 @@
 # ReactFileUpload
 
+Installing Packages 
+
+npm i
+cd client
+npm i
+cd ..
+
 Available Scripts
 In the project directory, you can run:
 
