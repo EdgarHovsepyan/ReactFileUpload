@@ -2,9 +2,9 @@
 
 Installing Packages 
 
-npm i
-cd client
-npm i
+npm i <br />
+cd client <br />
+npm i <br />
 cd ..
 
 Available Scripts
